@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+<rect width="1200" height="300" rx="28" fill="#101827"/>
+<text x="70" y="120" fill="#ffffff" font-size="54" font-family="Arial">Chinese Hand Counter</text>
+<text x="70" y="180" fill="#7dd3fc" font-size="30" font-family="Arial">MediaPipe • OpenCV • Pillow • Python • TTS</text>
+<text x="70" y="235" fill="#cbd5e1" font-size="24" font-family="Arial">Recognize Chinese number gestures from 1 to 10</text>
+</svg>
