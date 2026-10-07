@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chinese Hand Counter 🇨🇳✋
 
 A webcam-based Computer Vision project that recognizes **Chinese number hand gestures from 1 to 10** and displays:
@@ -195,3 +196,7 @@ Performance can decrease with:
 ## License
 
 MIT
+=======
+# Python-Computer-vision-Projects
+open cv
+>>>>>>> 6d970a95af5f3e6295bd3240b5e95005f3b85f4f
